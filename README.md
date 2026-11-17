@@ -1,14 +1,14 @@
 # Mollama installers
 
-Downloads for the Mollama desktop app. This repository holds only the installers; the files for each version are attached to its [release](https://github.com/makers-space/mollama-installers/releases).
+Downloads for the Mollama desktop app. This repository holds only the installers; the files for each version are attached to its [release](https://github.com/mkrspc-one/mollama-installers/releases).
 
 The links below always give the newest version.
 
 | System | Download |
 |---|---|
-| Windows | [Mollama-Setup.exe](https://github.com/makers-space/mollama-installers/releases/latest/download/Mollama-Setup.exe) |
-| macOS (Apple and Intel) | [Mollama.dmg](https://github.com/makers-space/mollama-installers/releases/latest/download/Mollama.dmg) |
-| Linux | [Mollama.AppImage](https://github.com/makers-space/mollama-installers/releases/latest/download/Mollama.AppImage) |
+| Windows | [Mollama-Setup.exe](https://github.com/mkrspc-one/mollama-installers/releases/latest/download/Mollama-Setup.exe) |
+| macOS (Apple and Intel) | [Mollama.dmg](https://github.com/mkrspc-one/mollama-installers/releases/latest/download/Mollama.dmg) |
+| Linux | [Mollama.AppImage](https://github.com/mkrspc-one/mollama-installers/releases/latest/download/Mollama.AppImage) |
 
 The installers are not signed yet, so each system warns before opening them. The steps below get past the warning.
 
@@ -44,6 +44,6 @@ For testing. "Mollama Staging" is the same app, but it opens the staging site, w
 
 | System | Download |
 |---|---|
-| Windows | [Mollama-Staging-Setup.exe](https://github.com/makers-space/mollama-installers/releases/latest/download/Mollama-Staging-Setup.exe) |
-| macOS (Apple and Intel) | [Mollama-Staging.dmg](https://github.com/makers-space/mollama-installers/releases/latest/download/Mollama-Staging.dmg) |
-| Linux | [Mollama-Staging.AppImage](https://github.com/makers-space/mollama-installers/releases/latest/download/Mollama-Staging.AppImage) |
+| Windows | [Mollama-Staging-Setup.exe](https://github.com/mkrspc-one/mollama-installers/releases/latest/download/Mollama-Staging-Setup.exe) |
+| macOS (Apple and Intel) | [Mollama-Staging.dmg](https://github.com/mkrspc-one/mollama-installers/releases/latest/download/Mollama-Staging.dmg) |
+| Linux | [Mollama-Staging.AppImage](https://github.com/mkrspc-one/mollama-installers/releases/latest/download/Mollama-Staging.AppImage) |
